@@ -1,6 +1,6 @@
 # it-with-c++
 1 ~ 55: 코드 구현력 기르기
-https://github.com/youngduck98/it-with-C-C-/blob/1b9c78e133205955318320ecf49574079f5fd22e/q1.cpp
+[q1.cpp]https://github.com/youngduck98/it-with-C-C-/blob/1b9c78e133205955318320ecf49574079f5fd22e/q1.cpp
 https://github.com/youngduck98/it-with-C-C-/blob/2cfd931c363c0361bf69a4cda54e97e16938022c/q2.cpp
 https://github.com/youngduck98/it-with-C-C-/blob/2cfd931c363c0361bf69a4cda54e97e16938022c/q3.cpp
 https://github.com/youngduck98/it-with-C-C-/blob/2cfd931c363c0361bf69a4cda54e97e16938022c/q4.cpp
